@@ -32,5 +32,8 @@ Salida:
 |_ _ _|      | |_ _ _|  _ _ _| |_ _ _|
 
 </pre>
+Se realiza una implementación utilizando el lenguaje de programación python3, no se utilizan librerías externas.
+Ejecución: python3 LCDTester.py
 
-Esta implementación ha sido realizada usando un método de composición de elementos para formar los números. Cada elemento se inserta en una coordenada específica que depende del size. 
+
+Esta implementación ha sido realizada usando un método de composición de elementos para formar los números. Cada elemento se inserta en una coordenada específica que depende del size y al final se obtiene una matriz de caracteres que representan un caracter particular.
