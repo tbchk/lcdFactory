@@ -31,5 +31,6 @@ Salida:
 |     |      | |     |       | |     |
 |_ _ _|      | |_ _ _|  _ _ _| |_ _ _|
 
+</pre>
 
 Esta implementación ha sido realizada usando un método de composición de elementos para formar los números. Cada elemento se inserta en una coordenada específica que depende del size. 
